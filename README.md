@@ -4,9 +4,12 @@ It use SwiCago librairies: https://github.com/SwiCago/HeatPump
 
 ***
 Features:
- - Initial config:  WIFI AP mode and web portal
- - Web interface for configuration, status and control, firmware upgrade
- - Homeassistant autodiscovery and control with MQTT
+ - Configured for domoticz mitsubishi mqtt python plugin.
+ - Respects swicago mqtt implementation and example.
+ - Works http control wtihout mqtt.
+ - Initial config:  WIFI AP mode and web portal.
+ - Web interface for configuration, status and control, firmware upgrade.
+ 
 
 ***
 Screenshots:
